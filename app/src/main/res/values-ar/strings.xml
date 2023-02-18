@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Game</string>
+    <string name="fish">السمكه</string>
+    <string name="name">الاسم</string>
+    <string name="passsword">الباسورد</string>
+    <string name="login">تسجيل </string>
+    <string name="signup">تسجيل الدخول</string>
+    <string name="mail">الايميل</string>
+    <string name="confirmpassword">تاكيد الباسورد</string>
+    <string name="theflyingfish">السمكه الطاءره</string>
+    <string name="gameover">اللعبه انتهت</string>
+    <string name="tryagain">اعاده الحاوله</string>
+    <string name="yourscore">YourScore</string>
+    <string name="already_register">تم التسجيل </string>
+    <string name="Next_Level">المستوي التالي</string>
+    <string name="Go_Next">الي التالي</string>
+</resources>

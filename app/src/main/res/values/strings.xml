@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Video Game</string>
+    <string name="fish">Fish</string>
+    <string name="name">Name</string>
+    <string name="passsword">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="mail">Mail</string>
+    <string name="confirmpassword">confirmpassword</string>
+    <string name="theflyingfish">The Flying Fish</string>
+    <string name="gameover">Gameover</string>
+    <string name="tryagain">TryAgain</string>
+    <string name="yourscore">YourScore</string>
+    <string name="already_register">AlreadyRegister</string>
+    <string name="Next_Level">Next Level</string>
+    <string name="Go_Next">Go Next</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
